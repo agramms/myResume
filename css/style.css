@@ -402,6 +402,20 @@ img#site-title {
 	opacity:1;
 	pointer-events:auto;
 }
+
+.skills .devicon {
+	font-size: 70px;
+	position: absolute;
+	padding: 12px 10px 10px 17px;
+}
+
+.skills img{
+	max-width: 100%;
+	width: 85px;
+	padding: 12px 10px 10px 17px;
+	margin: 5px;
+}
+
 .skills h5 {
 	margin:0;
 	font-size:14px;
