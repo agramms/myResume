@@ -1,6 +1,7 @@
 # MyResume
 
-##Own site to post my resume and portfolio
+Own site to post my resume and portfolio
+
 =================
 
 ### About
